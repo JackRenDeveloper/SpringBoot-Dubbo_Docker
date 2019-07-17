@@ -1,4 +1,4 @@
-package com.elvis.controller;
+package com.elvis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
